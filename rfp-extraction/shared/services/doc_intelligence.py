@@ -1,37 +1,3 @@
-# import os
-# from azure.core.credentials import AzureKeyCredential
-# from azure.ai.documentintelligence import DocumentIntelligenceClient
-# from azure.ai.documentintelligence.models import AnalyzeResult
-
-# class DocumentParser:
-#     def __init__(self):
-#         self.endpoint = os.environ.get("DI_ENDPOINT")
-#         self.key = os.environ.get("DI_KEY")
-        
-#         if not self.endpoint or not self.key:
-#             raise ValueError("Missing Document Intelligence configuration.")
-
-#         self.client = DocumentIntelligenceClient(
-#             endpoint=self.endpoint, 
-#             credential=AzureKeyCredential(self.key)
-#         )
-
-#     def parse_stream(self, file_stream) -> AnalyzeResult:
-#         """
-#         Sends a file stream to Azure Document Intelligence using the prebuilt-layout model.
-#         """
-#         # 'prebuilt-layout' is great for extracting structure, text, and tables
-#         poller = self.client.begin_analyze_document(
-#             "prebuilt-layout", 
-#             file_stream,
-#             # content_type="application/octet-stream",
-#             # output_content_format="markdown",
-#         )
-        
-#         result: AnalyzeResult = poller.result()
-#         return result
-
-
 import os
 from azure.core.credentials import AzureKeyCredential
 from azure.ai.documentintelligence import DocumentIntelligenceClient
@@ -75,22 +41,7 @@ class DocumentParser:
         )
         return poller.result()
 
-    def parse_to_text(self, file_stream, filter_margins: bool = True) -> str:
-        """
-        Parse document and return clean text content.
-        
-        Args:
-            file_stream: Document file stream
-            filter_margins: If True, remove headers/footers based on margin_filter
-        
-        Returns:
-            Extracted text as string
-        """
-        result = self.parse_stream(file_stream)
-        
-        if not filter_margins or not self.margin_filter:
-            return result.content
-        
+    def filter_document(self, result):
         # Build page height lookup
         page_heights = {}
         for page in result.pages:
@@ -103,6 +54,14 @@ class DocumentParser:
                 filtered_paragraphs.append(para.content)
         
         return '\n\n'.join(filtered_paragraphs)
+
+    def parse_to_text(self, file_stream, filter_margins: bool = True) -> str:
+        """ Parse document and return clean text content. """
+        result = self.parse_stream(file_stream)
+        
+        if not filter_margins or not self.margin_filter:
+            return result.content
+        return self.filter_document(result)
 
     def parse_to_json(self, file_stream, filter_margins: bool = True) -> dict:
         """
@@ -170,20 +129,3 @@ class DocumentParser:
             return not self.margin_filter.is_in_margin(y_center, page_height)
         
         return True
-
-
-# Usage example
-if __name__ == "__main__":
-    # Without margin filter
-    parser = DocumentParser()
-    
-    # With margin filter (10% top/bottom)
-    parser_filtered = DocumentParser(margin_filter=MarginFilter(top=0.10, bottom=0.10))
-    
-    # With tighter margins (5%)
-    parser_tight = DocumentParser(margin_filter=MarginFilter(top=0.05, bottom=0.05))
-    
-    # Example usage:
-    # with open("document.pdf", "rb") as f:
-    #     text = parser_filtered.parse_to_text(f)
-    #     json_output = parser_filtered.parse_to_json(f)

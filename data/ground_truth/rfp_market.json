@@ -1,0 +1,181 @@
+{
+    "document_id": "Investment Management Services: Public Market Investments (Template 1)",
+    "questions_answers": [
+        {
+            "question": "Provide a brief history of your firm, including the year founded, current ownership structure, and the location of your headquarters and satellite offices.",
+            "answer": "Meridian Global Asset Management was founded in 2002 by Elizabeth Sterling and David Chen in Boston, Massachusetts. Originally established as a boutique equity shop serving university endowments, the firm has since evolved into a multi-asset class manager. Ownership: We remain 100% employee-owned, with equity distributed among 28 partners. This structure ensures that our incentives are fully aligned with the long-term success of our clients. Locations: a. Headquarters: Boston, MA (Investment Team & Operations) b. Satellite Offices: London, UK (EMEA Research); Singapore (Asia-Pacific Research); San Francisco, CA (Client Service).",
+            "metadata": {"original_numbering": "4.1. Firm History & Structure"}
+        },
+        {
+            "question": "What is your firm’s total AUM? Please break this down by asset class (Equity, Fixed Income, etc.) and specifically for the strategy proposed in this RFP.",
+            "answer": "As of September 30, 2025, Meridian manages $42.5 Billion in total assets. Breakdown by Asset Class: ● Global Equities: $28.0 Billion ● Fixed Income (Core Plus): $10.5 Billion ● Liquid Alternatives: $4.0 Billion Proposed Strategy AUM: The strategy proposed for this RFP, the Meridian Global Quality Growth Strategy, currently has $8.2 Billion in assets under management.",
+            "metadata": {"original_numbering": "4.2. Assets Under Management (AUM)"}
+        },
+        {
+            "question": "Articulate your firm’s core investment philosophy. Is it value or growth-oriented? Top-down or bottom-up? Fundamental or quantitative?",
+            "answer": "Our core philosophy is Fundamental, Bottom-Up, and Quality-Focused. We believe that stock prices eventually converge with the intrinsic value of the underlying business, but market inefficiencies often create dislocations in the short term. We focus on: 1. High Return on Invested Capital (ROIC): Companies with a sustainable competitive moat. 2. Strong Free Cash Flow: Businesses that can self-fund growth. 3. Prudent Capital Allocation: Management teams with a track record of treating capital as a scarce resource. We are not 'macro' forecasters; we build portfolios company by company, independent of benchmark weightings.",
+            "metadata": {"original_numbering": "4.3. Investment Philosophy"}
+        },
+        {
+            "question": "What distinguishes your firm from other public market investment managers? Why is your approach sustainable?",
+            "answer": "Meridian distinguishes itself through Time Arbitrage. In a market obsessed with quarterly earnings, our competitive advantage lies in our willingness to hold positions through short-term volatility to capture long-term compounding. Research Depth: We do not rely on Wall Street consensus. Our analysts are career sector specialists who model businesses out 5–10 years, not 12 months. High Active Share: Our portfolios look nothing like the benchmark (Active Share typically >85%). We only invest in our best ideas, not index fillers. Behavioral Discipline: We have a codified selling discipline that removes emotion from the decision-making process.",
+            "metadata": {"original_numbering": "4.4. Competitive Advantage"}
+        },
+        {
+            "question": "Please provide an organizational chart of the investment team dedicated to this strategy. Discuss the tenure of key decision-makers and any significant turnover in the last three years.",
+            "answer": "The Global Quality Growth Strategy is led by Lead PM Sarah Jenkins (21 years industry experience, 15 at Meridian) and Co-PM Mark Alistair (18 years experience, 12 at Meridian). They are supported by a team of 12 sector-specific analysts. Tenure: The average tenure of the investment team is 9 years. Turnover: We have experienced very low turnover. In the last three years, only one analyst has left the firm (voluntary departure for business school). We have added two junior analysts during this period to deepen our technology coverage.",
+            "metadata": {"original_numbering": "4.5. Team Stability"}
+        },
+        {
+            "question": "How are portfolio managers and analysts compensated? Is compensation tied to short-term or long-term performance?",
+            "answer": "Our compensation philosophy is designed to discourage short-term risk-taking. Base Salary: Competitive fixed salary. Annual Bonus: Based on a combination of 1-year, 3-year, and 5-year investment performance (weighted heavily toward the 3 and 5-year metrics) and qualitative contributions to the firm's culture. Equity Participation: Key investment professionals are invited to become partners, purchasing equity in the firm. This equity must be held for a significant period and is subject to clawback provisions, ensuring alignment with client capital preservation.",
+            "metadata": {"original_numbering": "4.6. Compensation Structure"}
+        },
+        {
+            "question": "What is the current capacity of the proposed strategy? At what AUM level would you consider closing the strategy to new investors to preserve performance?",
+            "answer": "We view liquidity as a key performance driver. ● Current Capacity: The Global Quality Growth Strategy has an estimated total capacity of $12 Billion. ● Closure Policy: With current AUM at $8.2 Billion, we have approximately $3.8 Billion in remaining capacity. We are committed to 'soft-closing' the strategy to new investors once we reach $11 Billion to ensure we can continue to trade efficiently without market impact diluting returns.",
+            "metadata": {"original_numbering": "4.7. Capacity Constraints"}
+        },
+        {
+            "question": "Provide a breakdown of your client base by type (e.g., Pension, Endowment, Retail, High Net Worth). What is the retention rate of your clients over the past five years?",
+            "answer": "Our client base is institutional-heavy, reflecting our focus on long-term partnerships. Breakdown: ● Public/Corporate Pensions: 55% ● Endowments & Foundations: 25% ● Sovereign Wealth Funds: 10% ● High Net Worth/Family Offices: 10% Retention: Our client retention rate over the past five years is 96%. Most departures were due to client liquidity needs (e.g., pension payouts) rather than performance dissatisfaction.",
+            "metadata": {"original_numbering": "4.8. Client Base"}
+        },
+        {
+            "question": "How are Environmental, Social, and Governance (ESG) factors integrated into your firm's philosophy? Are you a signatory of the UN PRI?",
+            "answer": "Yes, Meridian is a signatory of the UN PRI (since 2014) and currently holds an 'A' rating. We practice full ESG Integration, not just negative screening. We view ESG not merely as a compliance checklist, but as a material risk factor: ● Environmental: We assess carbon transition risks for industrial holdings. ● Social: We evaluate supply chain labor standards and human capital turnover. ● Governance: This is paramount. We vote all proxies internally (never outsourced) to ensure management is accountable to shareholders. ● Note: Our analysts assign an internal ESG score to every company in our investable universe; companies below a certain threshold are ineligible for the portfolio regardless of valuation.",
+            "metadata": {"original_numbering": "4.9. ESG Integration"}
+        },
+        {
+            "question": "Describe the research process used to generate investment ideas. How large is your investable universe. How do you filter it down to a watchlist?",
+            "answer": "a) Investable Universe Our starting universe consists of the constituents of the MSCI ACWI (All Country World Index), covering approximately 3,000 companies across developed and emerging markets. We focus primarily on companies with a market capitalization above $5 billion to ensure sufficient liquidity. b) Filtering Process to Watchlist We employ a 'Quality First' funnel to narrow this universe down to a working watchlist of approximately 150–200 companies. 1. Quantitative Screening: We run proprietary screens filtering for high Return on Invested Capital (ROIC > 10%), stable Free Cash Flow (FCF) yields, and manageable leverage (Net Debt/EBITDA < 3x). 2. Thematic Alignment: We exclude industries facing secular decline or existential regulatory threats. 3. Analyst Review: Companies passing the screens are assigned to a sector analyst for a preliminary review. Only those with a clear 'economic moat' enter the active Watchlist.",
+            "metadata": {"original_numbering": "5.1. Idea Generation"}
+        },
+        {
+            "question": "Describe the depth of your fundamental research. Do you rely on internal research, sell-side research, or expert networks? How often does the team meet with company management?",
+            "answer": "a) Sources of Research We are an internal-research-driven shop. Over 90% of our investment inputs are generated by our 12 sector analysts. ● Internal: We build our own proprietary 3-statement financial models, projecting cash flows out 5 to 10 years. ● Sell-Side: We utilize sell-side research primarily to understand 'consensus' expectations and sentiment, rather than for idea generation. ● Expert Networks: We utilize networks (e.g., GLG, AlphaSights) specifically to validate supply chain dynamics or technical product advantages, rather than for general market views. b) Management Access Direct engagement is critical. Our investment team conducts over 400 management meetings annually, including on-site visits, headquarters tours, and competitor walkthroughs. We believe seeing a factory floor or R&D lab often provides insights that a spreadsheet cannot.",
+            "metadata": {"original_numbering": "5.2. Fundamental Research"}
+        },
+        {
+            "question": "What is your target number of holdings? Describe: typical sector, country, or position limits (min/max)?",
+            "answer": "Target Number of Holdings: We run a high-conviction, concentrated portfolio of 35 to 50 stocks. We believe diversification is preserved through revenue exposure rather than a sheer number of line items. a) Limits and Exposures ● i. Sector: We are benchmark-agnostic but adhere to risk guardrails. No single sector may exceed absolute 35% of the portfolio or +15% relative to the benchmark weight. ● ii. Country/Region: Emerging Markets are capped at 20% of the portfolio. Developed markets are unconstrained, though we monitor revenue source diversity. ● iii. Position Limits: ○ Maximum Position: 6% at cost, 8% at market value. ○ Minimum Position: 1.5% (we do not hold 'starter' positions; if it's in the book, it must matter).",
+            "metadata": {"original_numbering": "5.3. Portfolio Construction"}
+        },
+        {
+            "question": "What specific triggers cause you to buy a security? Conversely, what triggers a sell decision (e.g., valuation target, thesis violation, stop-loss)?",
+            "answer": "Buy Triggers: A stock is purchased only when it sits at the intersection of Quality (verified moat) and Valuation (minimum 15% discount to our calculated intrinsic value). Sell Triggers: 1. Thesis Violation (The 'Broken Story'): This is an immediate sell. If the structural competitive advantage erodes (e.g., a loss of pricing power), we exit regardless of valuation. 2. Valuation Extremes: If a stock price exceeds our optimistic bull-case valuation, we will trim or exit to recycle capital into better opportunities. 3. Better Opportunity: We operate a 'one-in, one-out' philosophy. To add a new name, it must offer a significantly better risk/reward profile than the weakest holding in the current portfolio.",
+            "metadata": {"original_numbering": "5.4. Buy/Sell Discipline"}
+        },
+        {
+            "question": "Describe your risk management framework. Is risk management independent of the portfolio management team? What systems (e.g., MSCI Barra, Bloomberg) do you use to monitor risk?",
+            "answer": "Risk Management Framework: We employ a 'Three Lines of Defense' model. 1. Portfolio Managers: Responsible for day-to-day risk monitoring and sizing. 2. Independent Risk Team: Led by our Chief Risk Officer (CRO), who reports directly to the CEO, not the Investment Team. This ensures they can flag risks without fear of retribution. 3. Compliance: Ensures adherence to client-specific guidelines (e.g., restricted lists). Systems: We utilize MSCI Barra for factor risk analysis (monitoring unintended bets on momentum, size, or volatility) and Bloomberg PORT for daily liquidity and stress testing. The Risk Team produces a weekly 'Risk Dashboard' reviewed by the Investment Committee.",
+            "metadata": {"original_numbering": "5.5. Risk Controls"}
+        },
+        {
+            "question": "How does the strategy typically behave in down markets? Please describe your approach to capital preservation during periods of high volatility.",
+            "answer": "Behavior in Down Markets: Historically, our strategy has exhibited a downside capture ratio of roughly 85%. This means if the market falls 10%, we expect to fall 8.5%. This resilience stems from our focus on companies with strong balance sheets and recurring revenue, which tend to hold up better during economic stress. Capital Preservation Approach: We do not tactically raise cash (we remain fully invested). During periods of high volatility, we high-grade the portfolio by rotating out of higher-beta cyclical growth names and into 'stable compounders' (e.g., Consumer Staples, Healthcare) or companies with net-cash balance sheets.",
+            "metadata": {"original_numbering": "5.6. Drawdown Management"}
+        },
+        {
+            "question": "What is the liquidity profile of the underlying securities in the proposed strategy? How many days would it take to liquidate 90% of the portfolio without significant market impact?",
+            "answer": "The strategy invests exclusively in large-cap and mega-cap securities. ● Liquidity: 100% of the portfolio is invested in Level 1 securities. ● Liquidation Timeframe: We estimate we could liquidate 90% of the portfolio within 2 trading days, assuming we do not exceed 20% of the daily average volume (ADV) of any single security. This ensures we can meet client redemption requests without incurring significant market impact costs.",
+            "metadata": {"original_numbering": "5.7. Liquidity Profile"}
+        },
+        {
+            "question": "For international mandates, do you hedge currency exposure? If so, is this active or passive, and what is the typical hedge ratio?",
+            "answer": "Strategy: We generally do not hedge currency exposure for our global equity mandates. We view currency fluctuations as a long-term wash that provides diversification benefits. ● Exceptions: We may implement defensive hedging via forward contracts only if a currency is deemed to be in a hyper-inflationary spiral or facing extreme geopolitical risk. Over the last five years, our hedge ratio has averaged 0%.",
+            "metadata": {"original_numbering": "5.8. Currency Management"}
+        },
+        {
+            "question": "What is the historical annual turnover rate of the portfolio? How does this impact tax efficiency and transaction costs?",
+            "answer": "Historical Turnover: Our annual turnover averages 20% to 30%, implying an average holding period of 3 to 5 years. Impact: ● Tax Efficiency: This low turnover results in a portfolio dominated by long-term capital gains, which is tax-efficient for taxable clients. ● Transaction Costs: Minimizing trading volume significantly reduces implicit (market impact) and explicit (commission) costs, preventing 'drag' on net returns.",
+            "metadata": {"original_numbering": "5.9. Turnover"}
+        },
+        {
+            "question": "Provide a summary of the annualized returns (gross and net of fees) for the proposed strategy against the appropriate benchmark for the 1, 3, 5, and 10-year periods ending 2024 (Pass/Fail)",
+            "answer": "Periods Ending December 31, 2024 The following table presents annualized returns for the Meridian Global Quality Growth Composite (USD). Period Gross Return (%) Net Return (%)* Benchmark (MSCI ACWI) (%) Excess Return (Gross vs. Bench) 1 Year 18.4% 17.7% 16.2% +2.2% 3 Year 10.5% 9.8% 8.1% +2.4% 5 Year 12.8% 12.1% 10.4% +2.4% 10 Year 11.2% 10.5% 8.8% +2.4%",
+            "metadata": {"original_numbering": "Performance Track Record"}
+        },
+        {
+            "question": "For the last three calendar years, provide a high-level attribution analysis explaining the primary drivers of alpha (e.g., sector allocation vs. security selection).",
+            "answer": "Our alpha generation is historically driven by Security Selection rather than Sector Allocation. ● 2024: The strategy outperformed the benchmark by +2.2%. ○ Primary Driver: Strong stock selection within the Technology and Industrial sectors. Our holdings in semiconductor equipment manufacturers and automation specialists benefited from increased capex spending, significantly outpacing the broader sector indices. ○ Detractor: Underweight exposure to the Financials sector during the Q4 rally slightly dragged on relative performance. ● 2023: The strategy outperformed the benchmark by +3.1%. ○ Primary Driver: Quality bias. As rates stabilized, the market rotated back toward companies with strong free cash flows. Our avoidance of unprofitable, speculative growth stocks (which sold off early in the year) was a key contributor. ○ Secondary Driver: Overweight positioning in Healthcare, specifically Life Sciences tools, which saw a rebound in valuation. ● 2022: The strategy outperformed the benchmark by +1.8% (protected capital better in a down market). ○ Primary Driver: Stock selection in Consumer Staples. Our holdings in pricing-power-dominant global brands were able to pass on inflation costs, preserving margins while the broader market compressed. ○ Detractor: Our structural underweight to Energy created a drag as oil prices spiked, though this was offset by the resilience of our core holdings.",
+            "metadata": {"original_numbering": "Attribution Analysis"}
+        },
+        {
+            "question": "Propose a fee schedule for this mandate. Include details on management fees, performance fees (if applicable), and any break-points based on AUM size.",
+            "answer": "Meridian proposes the following tiered fee schedule for a separate account mandate. We do not charge a performance fee for this strategy. Assets Under Management Annual Management Fee (bps) First $50 Million 65 bps (0.65%) Next $50 Million 55 bps (0.55%) Next $100 Million 45 bps (0.45%) Balance over $200 Million 40 bps (0.40%)",
+            "metadata": {"original_numbering": "Fee Structure"}
+        },
+        {
+            "question": "Estimate the total expense ratio, including trading costs, custody, and audit fees, if applicable.",
+            "answer": "For a Separate Account, the client pays the management fee plus direct custody and trading costs. There is no 'TER' in the mutual fund sense. However, if the client prefers to invest via our Commingled Institutional Fund, the estimated Total Expense Ratio is: ● Management Fee: 0.60% (weighted average) ● Administration, Audit & Legal: 0.08% ● Custody: 0.02% ● Total Expense Ratio: 0.70% Note: Transaction costs (trading commissions) are capitalized in the cost of the security and are estimated at an additional 0.05% per annum based on our low turnover.",
+            "metadata": {"original_numbering": "Total Expense Ratio"}
+        },
+        {
+            "question": "Who are your current third-party service providers for custody, fund administration, legal counsel, and auditing?",
+            "answer": "We utilize top-tier, independent third-party providers to ensure operational robustness and asset safety. ● Custodian: State Street Bank & Trust ● Fund Administrator: Citco Fund Services ● Legal Counsel: Ropes & Gray LLP ● Auditor: PricewaterhouseCoopers (PwC) ● Compliance Consultant: ACA Group",
+            "metadata": {"original_numbering": "Service Providers"}
+        },
+        {
+            "question": "Briefly describe your firm’s cybersecurity measures and data protection policies. Have you experienced any data breaches in the past five years? (Maximum word count 700)",
+            "answer": "Measures & Policies: Meridian treats data security as a critical operational risk. Our cybersecurity framework is aligned with the NIST (National Institute of Standards and Technology) guidelines. 1. Infrastructure: We utilize a hybrid cloud environment with redundant data centers. All data is encrypted both in transit (TLS 1.2+) and at rest (AES-256). 2. Access Control: We employ strict 'Least Privilege' access policies. Multi-Factor Authentication (MFA) is mandatory for all remote access and system logins. 3. Testing: We engage an external security firm to conduct penetration testing and vulnerability assessments bi-annually. 4. Employee Training: All employees undergo mandatory monthly phishing simulations and quarterly cybersecurity awareness training. 5. Vendor Management: We perform due diligence on the cybersecurity posture of all critical third-party vendors (e.g., our Administrator and Custodian) annually. Data Breaches: No. Meridian Global Asset Management has not experienced any material data breaches, unauthorized access to client data, or ransomware attacks in the past five years.",
+            "metadata": {"original_numbering": "Cybersecurity"}
+        },
+        {
+            "question": "Has the firm, or any of its principals, been involved in any litigation, regulatory investigation, or sanction by a securities regulator (e.g., SEC, FCA) in the last ten years? (Yes, No)",
+            "answer": "No.",
+            "metadata": {"original_numbering": "Regulatory History"}
+        },
+        {
+            "question": "Provide a sample of your standard monthly or quarterly client report. Can you provide customized reporting if requested?",
+            "answer": "Standard Reporting: We provide a comprehensive Monthly Performance Report (available on T+5 business days) and a Quarterly Investment Review (available on T+10 business days). The Quarterly Review includes: ● Executive Summary and Market Outlook. ● Portfolio Valuation and Performance (Gross/Net). ● Attribution Analysis (Sector, Region, and Top/Bottom Contributors). ● Portfolio Characteristics (P/E, ROIC, Market Cap) vs. Benchmark. ● Transaction History and Current Holdings. Customization: Yes. We currently provide customized reporting for 60% of our institutional clients. This includes: ● Bespoke ESG impact reports. ● Risk factor exposure feeds (e.g., CSV or XML) compatible with client risk systems (e.g., MSCI or BlackRock Aladdin). ● Board-ready presentation decks.",
+            "metadata": {"original_numbering": "Reporting"}
+        }
+    ],
+
+    "sections": [
+        {
+            "title": "Section 1: Introduction",
+            "subsections": [
+                "1.1 Purpose of Request",
+                "1.2 Background",
+                "1.3 Scope of Services"
+            ]
+        },
+        {
+            "title": "Section 2: Legal Information & Disclaimers",
+            "subsections": [
+                "2.1 Confidentiality",
+                "2.2 Conflict of Interest",
+                "2.3 Right to Reject",
+                "2.4 Non-Binding Nature"
+            ]
+        },
+        {
+            "title": "Section 3: Submission Instructions",
+            "subsections": [
+                "3.1 Timeline",
+                "3.2 Submission Format",
+                "3.3 Contact Information"
+            ]
+        },
+        {
+            "title": "Firm Overview & Philosophy",
+            "subsections": []
+        },
+        {
+            "title": "Investment Process & Risk Management",
+            "subsections": [
+                "Investment Process",
+                "Risk Management"
+            ]
+        },
+        {
+            "title": "Performance, Operations & Compliance",
+            "subsections": [
+                "Performance",
+                "Operations & Compliance"
+            ]
+        }
+    ]
+}
